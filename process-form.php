@@ -11,7 +11,7 @@ if ( ! $terms) {
     die("Terms must be accepted");
 }
 
-$host = "localhost";
+$host = "https://duckduckgo.com/?t=ffab&q=gogole&ia=web";
 $dbname = "message_db";
 $username = "root";
 $password = "";
