@@ -1,3 +1,13 @@
 .u-section-1 .u-sheet-1 {
   min-height: 400px;
 }
+
+label {
+  display: block;
+  font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+  margin: .4rem 0;
+}
